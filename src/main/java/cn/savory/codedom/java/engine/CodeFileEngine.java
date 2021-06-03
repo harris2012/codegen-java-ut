@@ -30,7 +30,7 @@ public class CodeFileEngine {
         codeWriter.writeLine(" *------------------------------------------------------------------------------");
         codeWriter.writeLine(" *     DO NOT GO GENTLE INTO THAT GOOD NIGHT.");
         codeWriter.writeLine(" *");
-        codeWriter.writeLine(" *     hc_zhang@trip.com");
+        codeWriter.writeLine(" *     harriszhang@live.cn");
         codeWriter.writeLine(" *");
         codeWriter.writeLine("------------------------------------------------------------------------------");
         codeWriter.writeLine(" */");
